@@ -1,3 +1,3 @@
 ### Template
 
-`This is repository used as a teamplae for the Data Science projects.`
+`This is repository used as a teamplate for the Data Science projects.`
